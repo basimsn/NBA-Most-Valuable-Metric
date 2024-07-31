@@ -1,5 +1,5 @@
-###NBA Team Metrics Analysis Project
-##Introduction
+### NBA Team Metrics Analysis Project
+## Introduction
 This project aims to analyze NBA team metrics from the regular seasons ending in 2021, 2022, and 2023 to identify the key performance indicators that correlate with regular season wins. By exploring this comprehensive dataset sourced from Basketball Reference, we hope to uncover insights that teams can use to enhance their chances of success.
 
 Group Members
