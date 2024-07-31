@@ -46,9 +46,7 @@ Metrics such as 3P%, 3PA, and FG% strongly correlate with team success in the NB
 Teams focusing on improving shooting efficiency and reducing turnovers are more likely to achieve higher win percentages.
 
 # How to Run the Code
-Install Dependencies:
-
-## Copy code
+## Install Dependencies:
 pip install pandas seaborn matplotlib scipy scikit-learn
 
 ## Run the Analysis:
